@@ -1,0 +1,46 @@
+hl {
+    color: white;
+    text-align: center;
+}
+
+h2 {
+    color: white
+    font-size: xx-large;
+}
+
+a {
+    background-color: white
+}
+
+body{
+    background-color: black;
+}
+
+.container_taxi{
+display:flex;
+flex-direction: column;
+align-items: center;
+
+}
+
+.counting_taxi{
+    font-size:40 px;
+}
+
+.button_taxi{
+    font-size:14 px;
+}
+.container_taxi2{
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+    
+    }
+    
+    .counting_taxi2{
+        font-size:40 px;
+    }
+    
+    .button_taxi2{
+        font-size:14 px;
+    }
